@@ -16,7 +16,9 @@
         }
 
         .subtitle{
-            font-weight: normal;
+            
+            font-family: 'Sacramento';
+            font-size: 2em;
             line-height: 2;
         }
 
@@ -97,23 +99,35 @@
 
          .bottom-container{
             margin-top: 2em;
+            padding: 50px 0 20px;
+            background-color: #726a95;
+            /* margin-top: 2em;
             text-align: center;
             height: 200px;
-            background-color: #726a95;
+            
             color: white;
-            position: relative;
+            position: relative; */
          }
 
          .footer-link{
-            top: 3em;
+            color: #351f39;
+            font-family: 'Montserrat';
+            margin: 10px 20px;
+            text-decoration: none;
+            /* top: 3em;
              padding: 3em;
-             color: #351f39;
+             
              left: 50%;
-             text-decoration: none;
+              */
          }
-
-         .bottom-container p{
-           
-            margin: 0 auto;
+         .footer-link:hover{
+            color: white;
+         }
+         .copyright{
+            padding: 20px 0;
+            color: white;
+            font-size: 0.75em;
+            font-family: 'Montserrat';
+            /* margin: 0 auto; */
             
           }
