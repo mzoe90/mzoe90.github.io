@@ -1,4 +1,3 @@
-# mzoe90.github.io
 # Curriculum Landing Page
 
 
