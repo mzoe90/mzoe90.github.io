@@ -10,8 +10,7 @@ This is a curricum landing page made with html y custom css, and published via G
 
 
 # Website 
-https://zoemonreal.github.io/mzoe90.github.io/
-
+https://zoemonreal.github.io/Curriculum/
 
 
 
